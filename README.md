@@ -8,6 +8,8 @@ Hi!
 
 I'm Willane, software developer focused in React ecossystem.
 
+[![Willane's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wps13)](https://github.com/wps13/github-readme-stats)
+
 Minhas outras redes / Other networks:
 
 <a href='https://www.linkedin.com/in/willane-paiva/' title='linkedIn profile'>
