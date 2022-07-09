@@ -1,18 +1,12 @@
-Olá!
+Hi! 👋
 
-Sou Willane, desenvolvedora de software focada em front-end no ecosistema React.
-
-- Tecnologias que domino: React.js, React Native, Redux.
-
-Hi!
-
-I'm Willane, software developer focused in React ecossystem.
+I'm Willane, software developer that has experience working with both web and mobile applications, using technologies such as react, react native and flutter. 
 
 [![Willane's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wps13&layout=compact&langs_count=10&exclude_repo=codigos-SD,STD,cpu)](https://github.com/wps13/github-readme-stats)
 
-Minhas outras redes / Other networks:
+**Social media:**
 
-<a href='https://www.linkedin.com/in/willane-paiva/' title='linkedIn profile'>
+<a href='https://www.linkedin.com/in/willane-paiva/' title='linkedIn profile' style="margin-right: 20px;">
   <img src='https://github.com/wps13/wps13/blob/main/linkedin-logo.png' alt='linkedIn logo' height=50  />
 </a>
 <a href='https://github.com/wps13/' title='DEV blog'>
