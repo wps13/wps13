@@ -9,6 +9,6 @@ I'm Willane, software developer that has experience working with both web and mo
 <a href='https://www.linkedin.com/in/willane-paiva/' title='linkedIn profile' style="margin-right: 20px;">
   <img src='https://github.com/wps13/wps13/blob/main/linkedin-logo.png' alt='linkedIn logo' height=50  />
 </a>
-<a href='https://github.com/wps13/' title='DEV blog'>
+<a href='https://dev.to/wps13' title='DEV blog'>
   <img src='https://github.com/wps13/wps13/blob/main/dev-logo.png' alt='DEV logo' height=50 />
 </a>
