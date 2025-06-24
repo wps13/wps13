@@ -25,8 +25,3 @@ I'm a Senior Software Engineer with a passion for building high-quality, user-ce
 - [LinkedIn](https://www.linkedin.com/in/willane-paiva/)
 - [Blog on dev.to](https://dev.to/wps13)
 
----
-
-## 📈 GitHub Stats
-
-![Willane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wps13&show_icons=true&theme=default)
